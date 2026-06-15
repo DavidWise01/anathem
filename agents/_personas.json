@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "fraa-erasmas",
+    "name": "Fraa Erasmas",
+    "epithet": "'Raz' — the young Decenarian avout who narrates; our eye ins",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Fraa Erasmas:ANA:5a72dd⟧"
+  },
+  {
+    "slug": "fraa-orolo",
+    "name": "Fraa Orolo",
+    "epithet": "Erasmas's mentor, a cosmographer — the first to detect the a",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Fraa Orolo:ANA:399224⟧"
+  },
+  {
+    "slug": "fraa-jad",
+    "name": "Fraa Jad",
+    "epithet": "A Thousander monk seemingly able to act across parallel time",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Fraa Jad:ANA:f78a05⟧"
+  },
+  {
+    "slug": "cord",
+    "name": "Cord",
+    "epithet": "Erasmas's secular half-sister, a machinist — the world outsi",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Cord:ANA:7449f0⟧"
+  },
+  {
+    "slug": "the-concents",
+    "name": "The Concents",
+    "epithet": "The walled monastery-universities of the avout, named for th",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Concents:ANA:b72344⟧"
+  },
+  {
+    "slug": "the-avout",
+    "name": "The Avout",
+    "epithet": "The cloistered scholarly order — male 'fraa,' female 'suur,'",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Avout:ANA:cfc036⟧"
+  },
+  {
+    "slug": "the-hylaean-theoric-world",
+    "name": "The Hylaean Theoric World",
+    "epithet": "The Platonic plane of perfect forms ('cnoöns') that may caus",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Hylaean Theoric World:ANA:1afe4b⟧"
+  },
+  {
+    "slug": "the-discipline",
+    "name": "The Discipline",
+    "epithet": "The rules restricting the avout's technology and contact wit",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Discipline:ANA:c438ba⟧"
+  },
+  {
+    "slug": "the-geometers-daban-urnud",
+    "name": "The Geometers / Daban Urnud",
+    "epithet": "Visitors aboard an inter-cosmic ship from parallel worlds — ",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Geometers / Daban Urnud:ANA:e8c3d2⟧"
+  }
+]
